@@ -14,7 +14,7 @@ unnotech/gofastdfs
 bitnami/java
 rabbitmq
 bitnami/kafka
-elasticsearch
+bitnami/elasticsearch
 apache/rocketmq
 paketobuildpacks/oracle
 mongodb/mongodb-enterprise-server
