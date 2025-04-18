@@ -7,4 +7,4 @@ xhofe/alist:latest
 nacos/nacos-server
 mysql
 redis
-nginx
+minio
