@@ -13,7 +13,7 @@ delron/fastdfs
 unnotech/gofastdfs
 bitnami/java
 rabbitmq
-islandora/activemq
+islandora/activemq:5.19.0
 bitnami/kafka
 elasticsearch
 apache/rocketmq
