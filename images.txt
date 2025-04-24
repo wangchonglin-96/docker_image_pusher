@@ -1,24 +1,2 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-nacos/nacos-server
-mysql
-redis
-minio/minio
-bitnami/postgresql
-delron/fastdfs
-unnotech/gofastdfs
-bitnami/java
-rabbitmq
-bitnami/kafka
-bitnami/elasticsearch
-apache/rocketmq:4.9.6
-paketobuildpacks/oracle
-mongodb/mongodb-enterprise-server
-kurthunter/sqlserver:v2
-couchdb
-if010/dameng
+
 1224073217/rocketmq-dashboard:1.0.0
