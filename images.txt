@@ -5,7 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server
-mysql
 redis
 minio/minio
 bitnami/postgresql
@@ -22,3 +21,4 @@ kurthunter/sqlserver:v2
 couchdb
 if010/dameng
 1224073217/rocketmq-dashboard:1.0.0
+mysql:9.4.0
