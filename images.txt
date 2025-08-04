@@ -1,2 +1,2 @@
-openjdk:8u292
+openjdk:8u302
 bitnami/postgresql:12.7.0
