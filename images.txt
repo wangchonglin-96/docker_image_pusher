@@ -1,2 +1,1 @@
-openjdk:8u302
-bitnami/postgresql:12.7.0
+paigeeworld/centos7:latest
