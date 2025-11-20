@@ -1,1 +1,1 @@
-sjqzhang/go-fastdfs
+snowdreamtech/frps:nightly-alpine3.22
