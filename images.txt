@@ -1,1 +1,1 @@
-snowdreamtech/frps:nightly-alpine3.22
+snowdreamtech/frps:latest
